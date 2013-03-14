@@ -11,9 +11,11 @@
 		"underscore" : "1.4.3"
 	},
 	"devDependencies": {
+		"mocha" : "1.7.0",
 		"should" : "1.2.1"
 	},
-	 "engines": {
+	"license": "Creative Commons Attribution 3.0 Unported ",
+	"engines": {
     	"node": ">=0.6"
   	}
 }
