@@ -6,8 +6,10 @@ A node.js stub for the SendGrid library - this lets you send and receive emails 
 Usage
 -----
 Install
+    
     npm install sendgrid-stub
 Use
+    
     var MailClient = require('sendgrid-stub').MailClient;
     var SendGrid = require('sendgrid-stub').SendGrid;
     var localAppserverMailClient = new MailClient("./sendgridEmails/");
