@@ -1,0 +1,15 @@
+{ "name" : "SendGrid-stub",
+	"version" : "0.0.2",
+	"author": "Vincens Riber Mink <vincens@usepaddle.com>",
+  	"description": "A sendgrid stub which sends and reads emails locally for testing",
+	"dependencies": {
+		"async": "0.1.16",
+		"underscore" : "1.4.3"
+	},
+	"devDependencies": {
+		"should" : "1.2.1"
+	},
+	 "engines": {
+    	"node": ">=0.6"
+  	}
+}
