@@ -1,4 +1,4 @@
-{ "name" : "SendGrid-stub",
+{ "name" : "sendgrid-stub",
 	"version" : "0.0.2",
 	"author": "Vincens Riber Mink <vincens@usepaddle.com>",
   	"description": "A sendgrid stub which sends and reads emails locally for testing",
