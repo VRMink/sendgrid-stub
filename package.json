@@ -1,10 +1,10 @@
 { "name" : "sendgrid-stub",
-	"version" : "0.0.2",
+	"version" : "0.0.3",
 	"author": "Vincens Riber Mink <vincens@usepaddle.com>",
   	"description": "A sendgrid stub which sends and reads emails locally for testing",
 	"repository": {
 	    "type": "git",
-	    "url": "https://github.com/ExxKA/sendgrid-stub"
+	    "url": "https://github.com/VRMink/sendgrid-stub"
 	},
 	"dependencies": {
 		"async": "0.1.16",
